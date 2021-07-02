@@ -1,4 +1,4 @@
-### Hi, I’m Eric.
+### Hi, I’m Eric - aka EASantiago 👋
 - 👀 I’m interested in becoming a Data Analyst!
 - 🌱 I recently received my Full Stack Software Development Certificate from Coding Dojo Web Development Bootcamp.
 - 💞️ I’m looking to collaborate on projects that would help me advance on my skills in front-end or back-end developement.
