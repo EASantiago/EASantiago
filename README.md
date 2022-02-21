@@ -1,5 +1,5 @@
 ### Hi, I’m Eric - aka EASantiago 👋
-- 👀 I’m interested in becoming a Data Analyst!
+- 👀 I’m interested in becoming a Software Developer!
 - 🌱 I recently received my Full Stack Software Development Certificate from Coding Dojo Web Development Bootcamp.
 - 💞️ I’m looking to collaborate on projects that would help me advance on my skills in front-end or back-end developement.
 - 📫 How to reach me. You can reach me through my email at: santie12@live.com
